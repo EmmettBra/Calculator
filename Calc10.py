@@ -234,7 +234,7 @@ while cont==True:
     if expression=='exit':
         cont=False
         print("You suck")
-    elif (solve(expression) = 666:
+    elif (solve(expression) == 666:
           print("DEVIL")
     else:
         print(' = ',solve(expression))
